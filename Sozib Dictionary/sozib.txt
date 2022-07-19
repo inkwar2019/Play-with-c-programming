@@ -1,0 +1,12 @@
+abandon:-yield,surrender,leave,cede,relinquish,desert,quit,forsake,jilt,discontinue,forgo,drop,recklessness,lack,restraint.
+abbreviate:-shorten,compress,contract,truncate,trim,reduce,cut,condense,abridge,abstract,digest,epitomize.
+abdicate:-renounce,disclaim,waive,disown,surrender,yield,relinquish,abandon,resign,quit.
+abduct:-kidnap.
+abet:-encourage,urge,instigate,incite,provoke,prod,goad;aid,help,assist,countenance,approve,support,endorse,second,sanction,condone,further.
+babble:-prattle,twaddle,jabber,gibber,chatter,blab,blabber,gurgle,burble,gabble,blabber,gab,yack,natter.
+back:-urreptitiously,secretly,clandestinely,privately,furtively,sneakily,slyly;treacherously,traitorously,perfidiously,deceitfully,insidiously.
+background:-history,experience,qualifications,credentials,grounding,distance,offing,horizon,obscurity.
+bad:-poor,wretched,inferior,defective,awful,worthless,miserable,egregious,execrable,substandard,unsatisfactory.
+cabaret:-nightclub,entertainment.
+cabinet:-cupboard,bureau,chifferobe,commode,chiffonier,chest,council,ministry,committee,advisors.
+cake:-pastry,bun,piece,chunk,bar,block,cube.

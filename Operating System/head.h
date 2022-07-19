@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<string.h>
+#include<conio.h>
+#include<stdlib.h>
+#include<ctype.h>
+#include<math.h>
+#include"GAME.h"
+#include"calculator.h"
+#include"calender.h"
+#include"call.h"
+#include"FM.h"
+#include"massage.h"
+#include"auxilliary.h"
